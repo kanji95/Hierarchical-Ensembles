@@ -1,0 +1,2 @@
+from .inaturalist_loader import iNaturalist
+from .tieredimagenet_loader import TieredImagenetH

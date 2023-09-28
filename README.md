@@ -1,4 +1,4 @@
-# Test-Time Amendment with a Coarse Classifier for Fine-Grained Classification
+# Test-Time Amendment with a Coarse Classifier for Fine-Grained Classification (NeurIPS 2023)
 
 Official PyTorch implementation | [Paper](https://arxiv.org/abs/2302.00368)
 
